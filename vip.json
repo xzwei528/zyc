@@ -14,7 +14,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "七夏文化传媒",
+      "name": "📚七夏文化传媒📚",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -23,7 +23,7 @@
     },
     {
       "key":"py_cctv_集合",
-      "name":"七夏┃央视",
+      "name":"📚七夏┃央视",
       "type":3,
       "style":{"type":"rect","ratio":1.485},
       "api":"py_cctv",
@@ -32,10 +32,10 @@
       "filterable":1,
       "ext":"./227/WHNe.json"
     },
-{"key":"py_cctv","name": "七夏┃CCTV影视专用","type": 3,"api": "./227/py_cctv_1.py","jar": "./227/pg.jar","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"py_cctv","name": "📚七夏┃CCTV影视专用","type": 3,"api": "./227/py_cctv_1.py","jar": "./227/pg.jar","searchable": 0,"quickSearch": 0,"filterable": 0},
     {
       "key": "csp_KungFu404",
-      "name": "七夏┃阿里云设置",
+      "name": "📚七夏┃阿里云设置",
       "type": 3,
       "api": "csp_KungFu404",
       "searchable": 1,
@@ -46,7 +46,7 @@
    
     {
       "key": "玩偶哥哥",
-      "name": "七夏┃玩偶4K",
+      "name": "📚七夏┃玩偶4K",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -57,7 +57,7 @@
     
 	{
     "key":"农民影视",
-    "name":"七夏┃农民",
+    "name":"📚七夏┃农民",
     "type":3,
     "api":"csp_XYQHiker",
     "searchable":1,
@@ -68,7 +68,7 @@
     
    {
       "key": "酷看",
-      "name": "七夏┃酷看",
+      "name": "📚七夏┃酷看",
       "type": 3,
       "api": "csp_Kkys",
       "searchable": 1,
@@ -78,7 +78,7 @@
 
 	    {
       "key": "南瓜",
-      "name": "七夏┃南瓜",
+      "name": "📚七夏┃南瓜",
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
@@ -88,7 +88,7 @@
     },
     {
       "key": "TVB云播",
-      "name": "七夏┃TVB云影",
+      "name": "📚七夏┃TVB云影",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -97,7 +97,7 @@
     },
      {
             "key": "好恐怖",
-            "name": "七夏┃恐怖",
+            "name": "📚七夏┃恐怖",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -126,7 +126,7 @@
         },
     {
       "key": "MFKYS",
-      "name": "七夏2K┃大全",
+      "name": "📚七夏2K┃大全",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -144,7 +144,7 @@
         "类型": "类型：&&</p",
         "导演": "导演：&&</p",
         "主演": "演员：&&</p",
-        "简介": "七夏提醒您：“资源公益免费，广告切勿信！”+<div class=\"desc_txt cf ec-palytcji cor3\">&&</div>",
+        "简介": "📚七夏提醒您：“资源公益免费，广告切勿信！”+<div class=\"desc_txt cf ec-palytcji cor3\">&&</div>",
         "搜索url": "/index.php/vod/search.html?wd={wd}",
         "数组": "<div class=\"pack-packcover returl list-top-b\">&&</div",
         "链接": "href=\"&&\"",
@@ -161,7 +161,7 @@
     },
     {
       "key": "Czsapp",
-      "name": "七夏┃厂长2K",
+      "name": "📚七夏┃厂长2K",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -170,13 +170,13 @@
       "changeable": 1,
       "ext": "https://www.czzy88.com/"
     },
-{"key":"酷影视","name":"七夏┃酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
-{"key": "陌陌","name": "七夏┃陌陌","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.kuin.one/api.php/app/"},
+{"key":"酷影视","name":"📚七夏┃酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
+{"key": "陌陌","name": "📚七夏┃陌陌","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.kuin.one/api.php/app/"},
 
-{"key":"csp_AppYsV2_Mxone","name":"七夏┃飞飞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
+{"key":"csp_AppYsV2_Mxone","name":"📚七夏┃飞飞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {
 	  "key":"csp_星辰",
-	  "name":"七夏┃星辰",
+	  "name":"📚七夏┃星辰",
 	  "type":3,
 	  "api":"csp_XBPQ",
 	  "searchable":1,
@@ -186,10 +186,10 @@
 	  "jar": "./227/sglt.jar"
 	  },
 
-{"key":"新视觉","name":"七夏┃新视觉","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.80yy3.com"},
+{"key":"新视觉","name":"📚七夏┃新视觉","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.80yy3.com"},
 {
             "key": "csp_XYQHiker_可可影视",
-            "name": "七夏┃可可",
+            "name": "📚七夏┃可可",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 0,
@@ -200,7 +200,7 @@
         },
 {
             "key": "csp_XBPQ_不知名影院",
-            "name": "七夏┃不知名",
+            "name": "📚七夏┃不知名",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./227/Yoursmile.jar",
@@ -211,7 +211,7 @@
         },
 {
             "key": "567🎬",
-            "name": "七夏┃567",
+            "name": "📚七夏┃567",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./227/Yoursmile.jar",
@@ -229,7 +229,7 @@
 
    {
          "key": "鑫鑫影院",
-         "name": "七夏┃鑫鑫",
+         "name": "📚七夏┃鑫鑫",
          "type": 3,
          "api": "csp_AppYsV2",
          "searchable": 1,
@@ -239,21 +239,21 @@
       },
     {
       "key": "drpy_js_哔哩影视",
-      "name": "七夏┃BL2K",
+      "name": "📚七夏┃BL2K",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/哔哩影视.js"
     },
     {
       "key": "drpy_js_两个BT",
-      "name": "七夏┃两个BT",
+      "name": "📚七夏┃两个BT",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/两个BT.js"
     },
     {
       "key": "南瓜",
-      "name": "七夏┃南瓜2K",
+      "name": "📚七夏┃南瓜2K",
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
@@ -264,7 +264,7 @@
     },
     {
       "key": "贱贱",
-      "name": "七夏┃荐片2K",
+      "name": "📚七夏┃荐片2K",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -275,49 +275,49 @@
     },
     {
       "key": "drpy_js_360影视",
-      "name": "七夏┃360官源",
+      "name": "📚七夏┃360官源",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/360影视.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "七夏┃奇异官",
+      "name": "📚七夏┃奇异官",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
-      "name": "七夏┃优酷官",
+      "name": "📚七夏┃优酷官",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
-      "name": "七夏┃腾讯官",
+      "name": "📚七夏┃腾讯官",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "七夏┃芒果官",
+      "name": "📚七夏┃芒果官",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/百忙无果.js"
     },
     {
       "key": "drpy_js_菜狗",
-      "name": "七夏┃搜狗官",
+      "name": "📚七夏┃搜狗官",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/菜狗.js"
     },
     {
       "key": "暴風",
-      "name": "七夏┃暴风2K",
+      "name": "📚七夏┃暴风2K",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -325,7 +325,7 @@
     },
     {
       "key": "drpy_js_爱看机器人",
-      "name": "七夏┃爱看2k",
+      "name": "📚七夏┃爱看2k",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/ikanbot2.js"
@@ -333,7 +333,7 @@
 
     {
       "key": "csp_Bttoo",
-      "name": "七夏┃比特2K",
+      "name": "📚七夏┃比特2K",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -342,7 +342,7 @@
     },
 {
             "key": "77",
-            "name": "七夏┃七七2K",
+            "name": "📚七夏┃七七2K",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -352,7 +352,7 @@
 
     {
       "key": "畅梦",
-      "name": "七夏┃畅梦2K",
+      "name": "📚七夏┃畅梦2K",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/changmeng.js"
@@ -360,7 +360,7 @@
 
     {
       "key": "一起看 ",
-      "name": "七夏┃一起看",
+      "name": "📚七夏┃一起看",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -369,14 +369,14 @@
     },
     {
       "key": "drpy_js_米爱影视",
-      "name": "七夏┃米爱2K",
+      "name": "📚七夏┃米爱2K",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/米爱影视.js"
     },
     {
       "key": "快看资源",
-      "name": "七夏┃快看",
+      "name": "📚七夏┃快看",
       "type": 1,
       "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -406,18 +406,18 @@
     },
      {
 	  "key": "XAL蓝光",
-	  "name": "七夏┃分享",
+	  "name": "📚七夏┃分享",
 	  "type": 1,
 	  "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
 	  "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
 	  "searchable": 1,
 	  "quickSearch": 1
 	},
-	{"key":"红牛资源","name":"七夏┃红牛","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","纪录片","动漫电影"]},
+	{"key":"红牛资源","name":"📚七夏┃红牛","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","纪录片","动漫电影"]},
 	
     {
       "key": "索尼资源",
-      "name": "七夏┃索尼2K",
+      "name": "📚七夏┃索尼2K",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
       "categories": [
@@ -460,7 +460,7 @@
     },
     {
       "key": "csp_SP33",
-      "name": "七夏┃三三2K",
+      "name": "📚七夏┃三三2K",
       "type": 3,
       "api": "csp_SP33",
       "searchable": 1,
@@ -470,7 +470,7 @@
     },
  {
       "key": "meowtv_lzzy",
-      "name": "七夏┃量子",
+      "name": "📚七夏┃量子",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -496,7 +496,7 @@
     },
 {
       "key": "百度资源",
-      "name": "七夏┃百度",
+      "name": "📚七夏┃百度",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -510,7 +510,7 @@
     },
 {
       "key": "csp_XYQHiker_锐行加速影院",
-      "name": "七夏┃锐行",
+      "name": "📚七夏┃锐行",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -521,7 +521,7 @@
     },
  {
       "key": "csp_XYQHiker_奇趣影院",
-      "name": "七夏┃奇趣",
+      "name": "📚七夏┃奇趣",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -532,7 +532,7 @@
     },
  {
       "key": "csp_XYQHiker_电影牛影院",
-      "name": "七夏┃影牛",
+      "name": "📚七夏┃影牛",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -543,7 +543,7 @@
     },
 {
       "key": "新视觉",
-      "name": "七夏┃视觉",
+      "name": "📚七夏┃视觉",
       "type": 3,
       "api": "csp_Xinsj",
       "searchable": 1,
@@ -554,7 +554,7 @@
     },
 {
     "key": "小城影视",
-      "name": "七夏┃小城",
+      "name": "📚七夏┃小城",
       "type": 3,
       "api": "csp_NanGua",
       "searchable": 1,
@@ -562,7 +562,7 @@
     },
     {
             "key": "csp_appys_影盒",
-            "name": "七夏┃影探",
+            "name": "📚七夏┃影探",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -573,7 +573,7 @@
         },
  {
       "key": "dr_码上看18哈",
-      "name": "七夏┃18哈",
+      "name": "📚七夏┃18哈",
       "type": 3,
       "api": "./227/merge.min.js",
       "searchable": 1,
@@ -584,7 +584,7 @@
     },
     {
       "key": "dr_码上看尘落",
-      "name": "七夏┃落尘",
+      "name": "📚七夏┃落尘",
       "type": 3,
       "api": "./227/merge.min.js",
       "searchable": 1,
@@ -595,7 +595,7 @@
     },
     {
       "key": "dr_码上看中国人",
-      "name": "七夏┃國人",
+      "name": "📚七夏┃國人",
       "type": 3,
       "api": "./227/merge.min.js",
       "searchable": 1,
@@ -608,7 +608,7 @@
 
     {
       "key": "黑狐",
-      "name": "七夏┃黑狐BP",
+      "name": "📚七夏┃黑狐BP",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -651,7 +651,7 @@
     },
     {
       "key": "双黄",
-      "name": "七夏┃双黄BP",
+      "name": "📚七夏┃双黄BP",
       "type": 3,
       "jar": "./227/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
@@ -669,7 +669,7 @@
 
     {
       "key": "csp_XPath_企鹅体育",
-      "name": "七夏┃企鹅体育",
+      "name": "📚七夏┃企鹅体育",
       "type": 3,
       "api": "csp_XPath",
       "style": {
@@ -683,7 +683,7 @@
     },
     {
       "key": "88js",
-      "name": "七夏┃88看球",
+      "name": "📚七夏┃88看球",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/88看球.js",
@@ -697,7 +697,7 @@
     },
     {
       "key": "csp_qiumi",
-      "name": "七夏┃Jrs球迷",
+      "name": "📚七夏┃Jrs球迷",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/jrk.js",
@@ -709,12 +709,12 @@
       "quickSearch": 0,
       "changeable": 0
     },
-     {"key":"横版影院","name":"七夏┃横版短剧","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
-{"key":"短剧","name":"七夏┃短剧壹","type":3,"api":"csp_App","jar": "./jar.php","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod"},
-{"key":"短剧侠","name":"七夏┃短剧贰","type":3,"api":"csp_XBPQ","jar": "./jar.php","ext":{	"站名":"短剧侠1","主页url":"https://www.duanjuxia.cn/","分类":"快手$21#抖音$22#都市$23#古装$24#重生$25#逆袭$26#虐恋$27#萌宝$28#言情$29#穿越$30#战神$31#神医$32#赘婿$33#甜宠$34#其他$35","搜索url":"https://www.duanjuxia.cn/index.php/vod/search.html?wd={wd}","分类url":"https://www.duanjuxia.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"}},
+     {"key":"横版影院","name":"📚七夏┃横版短剧","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
+{"key":"短剧","name":"📚七夏┃短剧壹","type":3,"api":"csp_App","jar": "./jar.php","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod"},
+{"key":"短剧侠","name":"📚七夏┃短剧贰","type":3,"api":"csp_XBPQ","jar": "./jar.php","ext":{	"站名":"短剧侠1","主页url":"https://www.duanjuxia.cn/","分类":"快手$21#抖音$22#都市$23#古装$24#重生$25#逆袭$26#虐恋$27#萌宝$28#言情$29#穿越$30#战神$31#神医$32#赘婿$33#甜宠$34#其他$35","搜索url":"https://www.duanjuxia.cn/index.php/vod/search.html?wd={wd}","分类url":"https://www.duanjuxia.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"}},
     {
       "key": "csp_聚短视频",
-      "name": "七夏┃短视频",
+      "name": "📚七夏┃短视频",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/短视频.js",
@@ -724,14 +724,14 @@
     },
     {
       "key": "drpy_js_短剧网",
-      "name": "七夏┃短剧网",
+      "name": "📚七夏┃短剧网",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/短剧网.js"
     },
     {
       "key": "酷狗",
-      "name": "七夏┃酷狗",
+      "name": "📚七夏┃酷狗",
       "type": 3,
       "api": "csp_Kugou",
       "searchable": 1,
@@ -740,7 +740,7 @@
 		},
     {
             "key": "Yinyuetai",
-            "name": "七夏┃音悦台",
+            "name": "📚七夏┃音悦台",
             "type": 3,
             "api": "csp_Yinyuetai",
             "searchable": 1,
@@ -749,7 +749,7 @@
         },	
     {
       "key": "Biliych",
-      "name": "七夏┃热门歌曲",
+      "name": "📚七夏┃热门歌曲",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -763,7 +763,7 @@
     },
     {
       "key": "戏曲杂苑",
-      "name": "七夏┃戏曲网",
+      "name": "📚七夏┃戏曲网",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -773,7 +773,7 @@
     },
     {
       "key": "相声小品",
-      "name": "七夏┃58相声小品",
+      "name": "📚七夏┃58相声小品",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -783,7 +783,7 @@
     },
     {
       "key": "酷奇js",
-      "name": "七夏┃酷奇MV",
+      "name": "📚七夏┃酷奇MV",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/酷奇MV.js",
@@ -797,7 +797,7 @@
     },
     {
       "key": "Bili",
-      "name": "七夏┃哔哩合集",
+      "name": "📚七夏┃哔哩合集",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -811,21 +811,21 @@
     },
     {
       "key": "drpy_js_NT动漫",
-      "name": "七夏┃NT动漫",
+      "name": "📚七夏┃NT动漫",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/NT动漫.js"
     },
     {
       "key": "drpy_js_爱弹幕",
-      "name": "七夏┃弹幕动漫",
+      "name": "📚七夏┃弹幕动漫",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/爱弹幕.js"
     },
     {
       "key": "js58",
-      "name": "七夏┃58动漫",
+      "name": "📚七夏┃58动漫",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 0,
@@ -835,7 +835,7 @@
     },
     {
       "key": "csp_动漫巴士",
-      "name": "七夏┃爱动漫",
+      "name": "📚七夏┃爱动漫",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -845,13 +845,13 @@
     },
  {
       "key": "xuexi",
-      "name": "七夏┃学习",
+      "name": "📚七夏┃学习",
       "type": 4,
       "api": "https://catbox.n13.club/t4.php?url=2"
     },
     {
       "key": "dr_兔小贝",
-      "name": "七夏┃启蒙",
+      "name": "📚七夏┃启蒙",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/兔小贝.js",
@@ -865,7 +865,7 @@
     },
     {
       "key": "少儿教育",
-      "name": "七夏┃儿童",
+      "name": "📚七夏┃儿童",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -879,7 +879,7 @@
     },
     {
       "key": "小学课堂",
-      "name": "七夏┃小学",
+      "name": "📚七夏┃小学",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -893,7 +893,7 @@
     },
     {
       "key": "初中课堂",
-      "name": "七夏┃初中",
+      "name": "📚七夏┃初中",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -907,7 +907,7 @@
     },
     {
       "key": "高中教育",
-      "name": "七夏┃高中",
+      "name": "📚七夏┃高中",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -922,7 +922,7 @@
 
     {
       "key": "YiSo",
-      "name": "七夏┃易搜4K",
+      "name": "📚七夏┃易搜4K",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -932,7 +932,7 @@
     },
     {
       "key": "PanSou",
-      "name": "七夏┃盘搜4K",
+      "name": "📚七夏┃盘搜4K",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -942,7 +942,7 @@
     },
     {
       "key": "UpYun",
-      "name": "七夏┃Up搜4K",
+      "name": "📚七夏┃Up搜4K",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -952,7 +952,7 @@
     },
     {
       "key": "七夜",
-      "name": "七夏┃七夜4K",
+      "name": "📚七夏┃七夜4K",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -962,7 +962,7 @@
     },
     {
       "key": "ext_live_protocol",
-      "name": "七夏文化传媒",
+      "name": "📚七夏文化传媒📚",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -1035,7 +1035,7 @@
                 }
             }
         },
-{"name":"🐉七夏","type":0,"url":"https://jx.xyflv.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://www.xyflv.cc/"}}},
+{"name":"🐉📚七夏","type":0,"url":"https://jx.xyflv.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://www.xyflv.cc/"}}},
 {"name":"🐉分享","type":0,"url":"https://www.8090g.cn/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},  
 {"name":"🐉公益","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
 {"name":"🐉免费","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
@@ -1079,7 +1079,7 @@
         }
       }
     },
-{"name":"七夏m3u8嗅探","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优
+{"name":"📚七夏m3u8嗅探","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优
 酷","mgtv","imgo","芒果"]}},
     {
       "name": "拾",
