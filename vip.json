@@ -32,7 +32,6 @@
       "filterable":1,
       "ext":"./227/WHNe.json"
     },
-{"key":"py_cctv","name": "📚七夏┃CCTV影视专用","type": 3,"api": "./227/py_cctv_1.py","jar": "./227/pg.jar","searchable": 0,"quickSearch": 0,"filterable": 0},
     {
       "key": "csp_KungFu404",
       "name": "📚七夏┃阿里云设置",
@@ -126,7 +125,7 @@
         },
     {
       "key": "MFKYS",
-      "name": "📚七夏2K┃大全",
+      "name": "📚七夏┃大全2K",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -171,9 +170,6 @@
       "ext": "https://www.czzy88.com/"
     },
 {"key":"酷影视","name":"📚七夏┃酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
-{"key": "陌陌","name": "📚七夏┃陌陌","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.kuin.one/api.php/app/"},
-
-{"key":"csp_AppYsV2_Mxone","name":"📚七夏┃飞飞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {
 	  "key":"csp_星辰",
 	  "name":"📚七夏┃星辰",
@@ -239,7 +235,7 @@
       },
     {
       "key": "drpy_js_哔哩影视",
-      "name": "📚七夏┃BL2K",
+      "name": "📚七夏┃哔哩",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/哔哩影视.js"
@@ -404,15 +400,6 @@
       "动漫"
            ]
     },
-     {
-	  "key": "XAL蓝光",
-	  "name": "📚七夏┃分享",
-	  "type": 1,
-	  "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
-	  "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
-	  "searchable": 1,
-	  "quickSearch": 1
-	},
 	{"key":"红牛资源","name":"📚七夏┃红牛","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","纪录片","动漫电影"]},
 	
     {
@@ -460,7 +447,7 @@
     },
     {
       "key": "csp_SP33",
-      "name": "📚七夏┃三三2K",
+      "name": "📚七夏┃三三",
       "type": 3,
       "api": "csp_SP33",
       "searchable": 1,
@@ -810,13 +797,6 @@
       "ext": "./lib/bilibili.json"
     },
     {
-      "key": "drpy_js_NT动漫",
-      "name": "📚七夏┃NT动漫",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/NT动漫.js"
-    },
-    {
       "key": "drpy_js_爱弹幕",
       "name": "📚七夏┃弹幕动漫",
       "type": 3,
@@ -1035,7 +1015,9 @@
                 }
             }
         },
-{"name":"🐉📚七夏","type":0,"url":"https://jx.xyflv.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://www.xyflv.cc/"}}},
+{"name":"🐉七夏","type":0,"url":"https://jx.xyflv.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://www.xyflv.cc/"}}},
+{"name":"🐉七夏探","type":0,"url":"https://jx.xmflv.com/?url="},
+{"name":"🐉七夏7777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"🐉分享","type":0,"url":"https://www.8090g.cn/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},  
 {"name":"🐉公益","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
 {"name":"🐉免费","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
@@ -1047,7 +1029,7 @@
 {"name":"🐉M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},     
 {"name":"🐉Play","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},      
 {"name":"🐉vip","type":0,"url":"https://vip.lianfaka.com/vip/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}}, 
-    {
+  {
       "name": "稻香🌾",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
@@ -1081,19 +1063,6 @@
     },
 {"name":"📚七夏m3u8嗅探","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优
 酷","mgtv","imgo","芒果"]}},
-    {
-      "name": "拾",
-      "type": 1,
-      "url": "http://121.62.61.51:6888/api/?key=qy9VEMeeqwl3nI4gvA&url=",
-      "ext": {
-        "flag": [
-          "NBY"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
     {
       "name": "左岸🌾",
       "type": 1,
